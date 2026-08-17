@@ -108,4 +108,3 @@ git remote add origin https://github.com/YOUR-USERNAME/diu-foundhub.git
 git push -u origin main
 ```
 
-The project was authored for **Toufiquzzaman** as a Daffodil International University student project.
